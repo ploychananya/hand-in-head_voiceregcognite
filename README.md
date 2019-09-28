@@ -1,8 +1,5 @@
 # Hand in Head
 Controll mouse cursor by using head movement and voice command.
-## Developers
-	* Chananya Ruenpitak
-	* Sorachat Patanasombat
 
 Department of Computer Engineering, Faculty of Engineering, Kasetsart University.
 
